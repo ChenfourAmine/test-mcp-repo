@@ -1,0 +1,1 @@
+# Simple Game\n\nThis is a very simple game implemented in HTML and CSS.\n\n## Getting Started\n\n1. Open `index.html` in your browser.\n2. Click on `Start Game` to begin.\n3. Enjoy!

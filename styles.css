@@ -1,1 +1,15 @@
-body {\n    font-family: Arial, sans-serif;\n    text-align: center;\n    background-color: #f0f0f0;\n} \n\nh1 {\n    color: #333;\n}  \n\n#start-game {\n    padding: 10px 20px;\n    font-size: 16px;\n    cursor: pointer;\n}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+}
+
+#start-game {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
